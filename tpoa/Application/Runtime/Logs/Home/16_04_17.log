@@ -1,0 +1,954 @@
+[ 2016-04-17T09:17:05+08:00 ] 127.0.0.1 /tpoa/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017772s ]
+
+[ 2016-04-17T09:17:05+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+
+[ 2016-04-17T09:17:24+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-04-17T09:17:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-04-17T09:17:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-04-17T09:17:43+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-04-17T09:17:46+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-04-17T09:17:46+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:18:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-04-17T09:18:03+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+
+[ 2016-04-17T09:18:21+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/Public/ckfinder/ckfinder.html?Type=Images&CKEditor=content&CKEditorFuncNum=1&langCode=zh-cn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 非法操作:Public
+
+[ 2016-04-17T09:18:47+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-04-17T09:18:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-04-17T09:18:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-04-17T09:18:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:18:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-17T09:18:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-04-17T09:18:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/Public/ckfinder/ckfinder.html?Type=Images&CKEditor=content&CKEditorFuncNum=1&langCode=zh-cn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 非法操作:Public
+
+[ 2016-04-17T09:20:10+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2016-04-17T09:20:11+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-04-17T09:20:11+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-04-17T09:20:11+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:20:11+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-04-17T09:20:12+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-04-17T09:20:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-04-17T09:20:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-04-17T09:20:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-04-17T09:20:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-17T09:20:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:20:37+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-04-17T09:21:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+
+[ 2016-04-17T09:21:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-04-17T09:21:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-04-17T09:21:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:21:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-04-17T09:21:08+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-04-17T09:23:18+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Kaoqin/charts
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-17T09:23:18+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-04-17T09:23:19+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+
+[ 2016-04-17T09:23:26+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-04-17T09:23:26+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2016-04-17T09:23:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:23:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-04-17T09:23:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-04-17T09:23:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-04-17T09:23:35+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-04-17T09:24:03+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-04-17T09:24:30+08:00 ] 127.0.0.1 /tpoa/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+
+[ 2016-04-17T09:24:30+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+
+[ 2016-04-17T09:24:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2016-04-17T09:24:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-04-17T09:24:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+
+[ 2016-04-17T09:24:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000665s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003756s ]
+
+[ 2016-04-17T09:24:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+
+[ 2016-04-17T09:24:55+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-17T09:27:15+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+
+[ 2016-04-17T09:27:15+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-04-17T09:27:15+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:27:16+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-04-17T09:27:16+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-17T09:27:17+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-04-17T09:27:26+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-04-17T09:30:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-04-17T09:30:56+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-04-17T09:30:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-04-17T09:30:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-04-17T09:30:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-04-17T09:30:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-04-17T09:30:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:31:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-04-17T09:31:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-04-17T09:31:41+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-04-17T09:31:41+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-04-17T09:31:41+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-04-17T09:31:41+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-04-17T09:31:41+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:31:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-04-17T09:31:48+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2016-04-17T09:40:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-17T09:40:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-04-17T09:40:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+
+[ 2016-04-17T09:40:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:40:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-04-17T09:40:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-04-17T09:40:10+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-17T09:40:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-04-17T09:40:39+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-17T09:40:43+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+
+[ 2016-04-17T09:41:43+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-04-17T09:41:51+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-04-17T09:41:54+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+
+[ 2016-04-17T09:41:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-17T09:41:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-04-17T09:41:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:41:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-04-17T09:41:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-04-17T09:42:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-17T09:42:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-04-17T09:42:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+
+[ 2016-04-17T09:44:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-04-17T09:44:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-04-17T09:44:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+
+[ 2016-04-17T09:44:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T09:44:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-04-17T09:44:32+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2016-04-17T09:44:40+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-04-17T09:44:43+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2016-04-17T21:32:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-04-17T21:32:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+
+[ 2016-04-17T21:32:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-04-17T21:32:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-04-17T21:32:02+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:32:04+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-04-17T21:32:12+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-17T21:32:15+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+
+[ 2016-04-17T21:32:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-04-17T21:32:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-04-17T21:32:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-04-17T21:32:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+
+[ 2016-04-17T21:32:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:32:58+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-04-17T21:33:05+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-04-17T21:33:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-04-17T21:33:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-04-17T21:33:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-04-17T21:33:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-04-17T21:33:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:33:52+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-04-17T21:34:03+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-04-17T21:34:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-04-17T21:34:45+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-04-17T21:34:45+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-04-17T21:34:45+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-04-17T21:34:45+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-04-17T21:34:45+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:34:46+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-17T21:34:53+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-17T21:37:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-04-17T21:37:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-04-17T21:37:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-04-17T21:37:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:37:49+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-04-17T21:37:50+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-04-17T21:37:58+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-17T21:38:01+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-04-17T21:38:13+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-17T21:38:13+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-04-17T21:38:13+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:38:13+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-04-17T21:38:13+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-04-17T21:38:14+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-04-17T21:38:21+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-04-17T21:38:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-04-17T21:38:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-04-17T21:38:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-04-17T21:38:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-04-17T21:38:57+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:38:58+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-04-17T21:39:11+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-04-17T21:43:08+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-04-17T21:43:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-04-17T21:43:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-04-17T21:43:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T21:43:09+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2016-04-17T21:43:10+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-17T21:43:18+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-04-17T21:43:19+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-04-17T21:48:59+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-04-17T21:52:06+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-04-17T22:00:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-04-17T22:00:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-04-17T22:00:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-04-17T22:00:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-04-17T22:00:42+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-17T22:00:43+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-04-17T22:01:00+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-04-17T22:01:21+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-04-17T22:01:33+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-04-17T22:01:37+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/download/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-04-17T22:02:27+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-04-17T22:02:38+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/Public/ckfinder/ckfinder.html?Type=Images&CKEditor=content&CKEditorFuncNum=1&langCode=zh-cn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+ERR: 非法操作:Public
+

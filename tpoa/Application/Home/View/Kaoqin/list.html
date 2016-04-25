@@ -1,0 +1,44 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/Images/css1/css.css" rel="stylesheet" type="text/css">
+<style>
+td, th {
+	text-align: center;
+}
+</style>
+</head>
+<body>
+<form method='post' action=''>
+  <table class="table" cellspacing="1" cellpadding="2" width="99%"
+			align="center" border="0">
+    <tbody>
+      <tr>
+        <th class="bg_tr" align="left" height="25">序号</th>
+        <th class="bg_tr" align="left" height="25">姓名</th>
+        <th class="bg_tr" align="left" height="25">科目</th>
+        <th class="bg_tr" align="left" height="25">日期</th>
+        <th class="bg_tr" align="left" height="25">修改</th>
+        <th class="bg_tr" align="left" height="25"> 
+        <input type='submit' name='deleteSubmit' onclick="return confirm('?')" value='删除' />
+        </th>
+      </tr>
+      <volist name="data" id="vo">
+        <tr>
+          <td class="td_bg" width="5%" height="23" align="center">{$vo.id}</td>
+          <td class="td_bg">{$vo.truename}</td>
+          <td class="td_bg">{$vo.subject.title}</td>
+          <td class="td_bg">{$vo.addtime}</td>
+          <td class="td_bg"><a href="edit.php">修改</a></td>
+          <td class="td_bg"><input type='checkbox' value="" name='id[]' /></td>
+        </tr>
+      </volist>
+      <tr>
+        <td colspan="7">{$page}</td>
+      </tr>
+    </tbody>
+  </table>
+</form>
+</body>
+</html>

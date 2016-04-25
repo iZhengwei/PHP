@@ -1,0 +1,51 @@
+[ 2016-04-18T19:31:21+08:00 ] 127.0.0.1 /tpoa/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007776s ]
+
+[ 2016-04-18T19:31:22+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-04-18T19:31:31+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/verify/_/1460979091108
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Public/checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-04-18T19:31:36+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Index/UntitledFrame-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 非法操作:UntitledFrame-1
+
+[ 2016-04-18T19:31:38+08:00 ] 127.0.0.1 /tpoa/index.php/Home/Info/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
